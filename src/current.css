@@ -1,0 +1,15 @@
+.temperatureprev{
+    font-family: "Raleway", sans-serif;
+    font-size: xx-large;
+    font-weight: 100;
+    margin: 0 40px;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 103px
+}
+
+p.current{
+    font-size: 40px;
+    color: white;
+    margin-top: 93px;
+}
